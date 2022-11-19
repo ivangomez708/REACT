@@ -1,6 +1,5 @@
-//import './App.css';
-import logo from './template/assets/img/ivan.jpeg';
-import './template/css/styles_proyect_ivan.css';
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
@@ -28,13 +27,13 @@ function App() {
             <section className="resume-section" id="about">
                 <div className="resume-section-content">
                     <h1 className="mb-0">
-                        Ivan Dario
+                        Ivan Gomez
                         <span className="text-primary">Gomez Bernal</span>
                     </h1>
                     <br/>
                     <div className="subheading mb-5">
-                        <b>Dirección:</b> Calle 52 # 19B - 42 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ciudad:</b> Manizales &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Fecha de Nacimiento:</b> 1999-11-09 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lugar de Nacimiento:</b> Manizales
-                        <br/><b>Estado Civil:</b> Soltero &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Telefono:</b> +57 3122378753 – 8911689 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Correo:</b> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">ralejo099@gmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Cedula:</b> 1053873317
+                        <b>Dirección:</b> Segunda Etapa casa 146 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ciudad:</b> Chinchina &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Fecha de Nacimiento:</b> 2000-08-07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lugar de Nacimiento:</b> Chinchina
+                        <br/><b>Estado Civil:</b> Soltero &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Telefono:</b> +57 3217761786 – 8403152 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Correo:</b> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">ivandgomez13@gmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Cedula:</b> 1193032582
                     </div>
                     <p className="lead mb-5">Soy una persona con muchas cualidades y valores, con ánimo de aprender sobre cómo solucionar problemas de software, manejo de bases de datos y aprender otros idiomas de programación. Aun estudiante aprendiendo de mi formación y esperando conseguir un empleo que me ayude a crecer en el área de sistemas, ofrezco compromiso y honestidad en todo lo que hago.</p>
                     <div className="social-icons">
