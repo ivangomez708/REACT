@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './template/assets/img/ivan.jpeg';
+//import './template/css/styles_proyect_ivan.css';
 
 function App() {
   return (
@@ -35,7 +35,7 @@ function App() {
                         <b>Dirección:</b> Segunda Etapa casa 146 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Ciudad:</b> Chinchina &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Fecha de Nacimiento:</b> 2000-08-07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Lugar de Nacimiento:</b> Chinchina
                         <br/><b>Estado Civil:</b> Soltero &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Telefono:</b> +57 3217761786 – 8403152 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Correo:</b> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">ivandgomez13@gmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Cedula:</b> 1193032582
                     </div>
-                    <p className="lead mb-5">Soy una persona con muchas cualidades y valores, con ánimo de aprender sobre cómo solucionar problemas de software, manejo de bases de datos y aprender otros idiomas de programación. Aun estudiante aprendiendo de mi formación y esperando conseguir un empleo que me ayude a crecer en el área de sistemas, ofrezco compromiso y honestidad en todo lo que hago.</p>
+                    <p className="lead mb-5">Experiencia de (5) años y medio en atención al cliente manejo de archivo y documentos de empresas  suma y arreglo de facturas de ventas de cada mes y asistente administrativo, persona activa, curiosa, honesta y puntual, con alto sentido de pertenencia y altas cualidades laborales y profesionales que contribuyan al desarrollo económico, social y tecnológico de su entorno y del país; así mismo, ofrecer servicios en mantenimiento preventivo y predictivo de equipos de cómputo e implementación y configuración de redes de datos, manejo de herramientas ofimáticas (Word, Excel avanzado entre otras) análisis y control de bases de datos constructor de plantillas que contribuyan a la automatización de la información y procesos. De la misma manera a cargo de una unidad operativa abarcando todas las funciones operativas en sistemas de un servicio de salud generando también actividades administrativas y liderando el área de sistemas de 19 establecimientos penitenciarios.</p>
                     <div className="social-icons">
                         <a className="social-icon" href="https://www.linkedin.com/in/raul-alejandro-carmona-cuellar-b258b1212/"><i className="fab fa-linkedin-in"></i></a>
                         <a className="social-icon" href="https://github.com/racarmona89947"><i className="fab fa-github"></i></a>
@@ -53,11 +53,11 @@ function App() {
                     <h2 className="mb-5">EXPERIENCIA</h2>
                     <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="flex-grow-1">
-                            <h3 className="mb-0">Almacenista con labores en telecomunicaciones</h3>
-                            <div className="subheading mb-3">practicante SENA</div>
-                            <p>Servicio nacional de aprendizaje sena, manizales</p>
+                            <h3 className="mb-0">PREMIER SALUD ERON VIEJO CALDAS S.A.S</h3>
+                            <div className="subheading mb-3">Líder sistemas</div>
+                            <p>Soporte técnico, solución de problemas, análisis de bases de datos y genera bases de datos, a cargo de 19 establecimientos encabezando el área de sistemas, compras y manejo de proveedores. Organización de Rips.</p>
                         </div>
-                        <div className="flex-shrink-0"><span className="text-primary">2019-10 - 2020-04</span></div>
+                        <div className="flex-shrink-0"><span className="text-primary">Febrero 09 del 2022 – Actualmente laborando</span></div>
                     </div>
                     
                 </div>
@@ -77,7 +77,7 @@ function App() {
                     <div className="d-flex flex-column flex-md-row justify-content-between">
                         <div className="flex-grow-1">
                             <h3 className="mb-0">Sena</h3>
-                            <div>Tecnólogo en Diseño, Implementación y Mantenimineto de Sistemas de Telecomunicaciones</div>
+                            <div>Tecnico sistemas</div>
                         </div>
                         <div className="flex-shrink-0"><span className="text-primary">2018 - 2020</span></div>
                     </div>
@@ -89,8 +89,12 @@ function App() {
                     <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div className="flex-grow-1">
                             <h3 className="mb-0">SENA</h3>
-                            <div>CCNA R&S Routing and Switching Essentials</div>
-                            <div>CCNA R&S Introduction to Networks</div>
+                            <div>Curso especial en electrónica práctica</div>
+                            <div>Curso especial en organización documental</div>
+                            <div>Curso especial en servicio al cliente</div>
+                            <div>Curso de inglés presencial</div>
+                            <div>Curso en bomberos como aspirante</div>
+                            <div>Curso digitando</div> 
                         </div>
                         <div className="flex-shrink-0"><span className="text-primary">2019</span></div>   
                     </div>
