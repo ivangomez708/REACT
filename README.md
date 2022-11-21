@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋 Ivan Gomez Bernal</h1>
 <h3 align="center">Estudiante ingeniera en sistemas y telecomunicaciones.</h3>
 
-<h3 align="center">Este soy yo</h3>
-
-![This is an image](ivan.jpeg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +21,3 @@
 
 ![This is an image](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg)
 
-<h3 align="center">Ella es mi pareja.</h3>
-
-![This is an image](ivan2.jpg)
