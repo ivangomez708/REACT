@@ -16,7 +16,7 @@ function App() {
             <ul className="navbar-nav">
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#about">Perfil Profesional</a></li>
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#experience">Experiencia</a></li>
-                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#education">Educación</a></li>
+                <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#education">Educacion</a></li>
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#skills">Habilidades</a></li>
                 <li className="nav-item"><a className="nav-link js-scroll-trigger" href="#awards">Certificaciones</a></li>
             </ul>
